@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Sudoku Solver</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Sudoku Solver</string>
+    <string name="instructions">Enter the values in the grid by touching them.\n\nThe Green Button solves the sudoku with the hints you provided.\n\nThe red button resets the grid.\n\nIf you entered hints which do not lead to a unique solution,the solver will still show you one of the possible solutions.</string>
+	<string name="about">Developed By : \n\n\nSafal Pandita\n\nFor suggestions email at :\nsafalpandita@gmail.com</string>
+	<string name="settings">Which settings were you expecting here??\n\n Email me at : \nsafalpandita@gmail.com\n\n LOL</string>
+</resources>
